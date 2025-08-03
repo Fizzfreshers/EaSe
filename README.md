@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/arXiv-2502.01401-b31b1b.svg)](https://arxiv.org/abs/2502.01401)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Official repository for EaSe 3D Visual Grounding - a training-free, LLM/VLM-aided framework for 3D Visual Grounding (3DVG).
+> Original Credits to : Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
 
 ## 📖 About
 
